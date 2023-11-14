@@ -1,5 +1,7 @@
 # GRIFFITH PROJECT WEBSITE
 
+### Created an interactive website comptabile on both mobile and desktop devices. 
+
 ![post1](https://github.com/cremegon/WEBSITE_GRIFFITH/assets/116914360/559fd917-04ee-489b-b3b3-2e66ead0c780.jpg)
 ![post2](https://github.com/cremegon/WEBSITE_GRIFFITH/assets/116914360/c44c4947-b13b-479b-95dd-07ba95572100.jpg)
 ![post3](https://github.com/cremegon/WEBSITE_GRIFFITH/assets/116914360/2d749e7d-d24b-4aca-8617-62cbc555e0af.jpg)
